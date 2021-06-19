@@ -1,1 +1,1 @@
-# website-dynamics-for-hotel-managment-using-lemu-laravel
+# website-dynamics-for-hotel-managment-using-lumen-laravel
